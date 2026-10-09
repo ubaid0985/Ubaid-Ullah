@@ -1,0 +1,6 @@
+{
+  "name": "QRCraft - Professional QR Code Generator & Studio",
+  "description": "Generate, customize, and download beautiful high-resolution QR codes with custom logos, frames, gradients, and scan verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
